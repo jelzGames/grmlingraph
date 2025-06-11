@@ -5,8 +5,12 @@ This application visualizes airline routes using a Gremlin graph database. It is
 
 [![Watch the demo](https://img.youtube.com/vi/Ckp6rfgPDYE/0.jpg)](https://youtu.be/Ckp6rfgPDYE)
 
+# Web api c#
 
+open solution
+run
 
+# Reatc 
 
 ## Getting Started
 
