@@ -1,0 +1,70 @@
+# -----------------------
+# Logs
+# -----------------------
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# -----------------------
+# Node / React
+# -----------------------
+node_modules/
+dist/
+build/
+dist-ssr/
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# -----------------------
+# Dependency directories
+# -----------------------
+.browserslistrc
+coverage/
+.eslintcache
+.cache/
+.next/
+out/
+
+# -----------------------
+# ASP.NET / .NET
+# -----------------------
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+Generated\ Files/
+
+# -----------------------
+# OS
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Visual Studio Code
+# -----------------------
+.vscode/
+!.vscode/extensions.json
+
+# -----------------------
+# JetBrains Rider / WebStorm / IntelliJ
+# -----------------------
+.idea/
+*.iml
+
+# -----------------------
+# Others
+# -----------------------
+*.njsproj
+*.ntvs*
+*.sw?
