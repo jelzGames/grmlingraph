@@ -8,9 +8,10 @@ This application visualizes airline routes using a Gremlin graph database. It is
 # Web api c#
 
 open solution
+
 run
 
-# Reatc 
+# React 
 
 ## Getting Started
 
