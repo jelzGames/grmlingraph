@@ -3,7 +3,7 @@
 ## Description:
 This application visualizes airline routes using a Gremlin graph database. It is built with React for the frontend, a C# Web API for the backend, and Gremlin for modeling and querying relationships between airports and flight route.
 
-[![Watch the demo](https://img.youtube.com/vi/Ckp6rfgPDYE.jpg)](https://youtu.be/Ckp6rfgPDYE)
+[![Watch the demo](https://img.youtube.com/vi/Ckp6rfgPDYE/0.jpg)](https://youtu.be/Ckp6rfgPDYE)
 
 
 
